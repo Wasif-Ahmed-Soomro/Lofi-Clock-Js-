@@ -74,21 +74,21 @@ html,body{
 }
 #hour{
 
-    gap: 20px;
+    gap: 10px;
     
     color: white;
     
 }
 #minute{
     
-    gap: 20px;
+    gap: 10px;
    
      color: white;
     
 }
 #sec{
     
-    gap: 20px;
+    gap: 10px;
     
     color: white;
 }
